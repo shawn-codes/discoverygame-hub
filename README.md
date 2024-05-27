@@ -2,9 +2,10 @@
 A video game database discovery web app that helps you find new and interesting games to play through a vast collection, sorted by platform and genre.
 
 ## Getting Started
-To start using GameHub locally, follow these steps:
+To get started with Discovery GameHub, follow these steps:
 
-1. Clone this repository to your local machine.
-2. Install the required dependencies by running npm install.
-3. Start the web server with npm run dev.
-
+Clone this repository to your local machine.
+Run npm install to install the required dependencies.
+Get a RAWG API key at https://rawg.io/apidocs. You'll have to create an account first.
+Add the API key to src/services/api-client.ts
+Run npm run dev to start the web server. 
