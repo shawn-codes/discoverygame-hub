@@ -1,5 +1,5 @@
 # Discovery GameHub
-A video game database discovery web app that helps you find new and interesting games to play through a vast collection,sorted by platform and genre.
+A video game database discovery web app that helps you find new and interesting games to play through a vast collection, sorted by platform and genre.
 
 ## Getting Started
 To get started with Discovery GameHub, follow these steps:
